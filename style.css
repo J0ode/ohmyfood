@@ -118,7 +118,7 @@ header {
 }
 
 #map {
-    animation: fadeIn linear 4s;
+    animation: fadeIn linear 2.5s;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -132,7 +132,7 @@ header {
 }
 
 #topsection {
-    animation: fadeIn linear 4s;
+    animation: fadeIn linear 2.5s;
     animation-delay: 200ms;
     background-color: #f6f6f6;
     padding-top: 30px;
@@ -344,7 +344,7 @@ p {
 }
 
 #fonctionnement {
-    animation: fadeIn linear 4s;
+    animation: fadeIn linear 2.5s;
     animation-delay: 400ms;
     display: flex;
     justify-content: center;
@@ -361,7 +361,7 @@ p {
 }
 
 #restaurants {
-    animation: fadeIn linear 4s;
+    animation: fadeIn linear 2.5s;
     animation-delay: 600ms;
     background-color: #eaeaea;
     display: flex;
@@ -547,7 +547,7 @@ svg.svg-inline--fa.fa-arrow-left-long {
 }
 
 .titrepage {
-    animation: fadeIn linear 4s;
+    animation: fadeIn linear 2.5s;
     animation-delay: 200ms;
     align-items: center;
     margin-left: auto;
@@ -599,7 +599,7 @@ svg.svg-inline--fa.fa-arrow-left-long {
     text-align: start;
 }
 .sectionblocpage2 {
-    animation: fadeIn linear 4s;
+    animation: fadeIn linear 2.5s;
     animation-delay: 600ms;
     align-items: center;
     display: flex;
@@ -608,7 +608,7 @@ svg.svg-inline--fa.fa-arrow-left-long {
 }
 
 .sectionblocpage3{
-    animation: fadeIn linear 4s;
+    animation: fadeIn linear 2.5s;
     animation-delay: 800ms;
     align-items: center;
     display: flex;
@@ -618,7 +618,7 @@ svg.svg-inline--fa.fa-arrow-left-long {
 
 
 .sectionblocpage {
-    animation: fadeIn linear 4s;
+    animation: fadeIn linear 2.5s;
     animation-delay: 400ms;
     align-items: center;
     display: flex;
@@ -627,7 +627,7 @@ svg.svg-inline--fa.fa-arrow-left-long {
 }
 
 .etapesrepas {
-    animation: fadeIn linear 4s;
+    animation: fadeIn linear 2.5s;
     animation-delay: 400ms;
     display: flex;
     justify-content: flex-start;
